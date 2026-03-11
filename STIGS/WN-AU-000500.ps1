@@ -13,10 +13,10 @@
     STIG-ID         : WN11-AU-000500
 
 .TESTED ON
-    Date(s) Tested  : 2026-03-06
-    Tested By       : David Berrios 
-    Systems Tested  : Windows VM
-    PowerShell Ver. : 7.5.4
+    Date(s) Tested  : 
+    Tested By       :  
+    Systems Tested  : 
+    PowerShell Ver. : 
 
 .USAGE
     Put any usage instructions here.
